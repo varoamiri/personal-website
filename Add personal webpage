@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>صفحه شخصی پریسا امیری</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1 {
+            color: #e91e63;
+        }
+        .bio {
+            margin: 20px 0;
+        }
+        .social {
+            margin: 20px 0;
+        }
+        a {
+            color: #e91e63;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .contact {
+            margin-top: 40px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>پریسا امیری</h1>
+        <div class="bio">
+            <p>پریسا امیری، با سابقه کار در صنعت آرایشی بهداشتی، علاقه‌مند به ارتقا صفحه اینستاگرام و ارتباط با مشتریان و مخاطبان عزیز.</p>
+        </div>
+        <div class="social">
+            <p>مرا در شبکه‌های اجتماعی دنبال کنید:</p>
+            <p><a href="https://www.instagram.com/mass.shopping.ir" target="_blank">Instagram</a></p>
+        </div>
+        <div class="contact">
+            <p>با من در تماس باشید: parisa@example.com</p>
+        </div>
+    </div>
+</body>
+</html>
